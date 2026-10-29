@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://afawzy2611.github.io/bike-zone/sitemap.xml
